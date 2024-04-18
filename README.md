@@ -1,21 +1,21 @@
 # Stellar-Simulator
-O principal objetivo deste projeto  ́e simular a posicao de determinadas estrelas da Via Láctea no Diagrama HR, revelando desta maneira, 
-a classificação da estrela quanto á sequencia principal, sua idade e destino.
+The main objective of this project is to simulate the position of certain stars in the Milky Way in the HR Diagram, thus revealing,
+the classification of the star in terms of the main sequence, its age and destiny.
 
-Contudo, espera-se oferecer onhecimento aos usuários quanto a evolução estelar, principalmente no que se refere as estrelas 
-vizinhas distribuıdas na Via Lactea.
+In conclusion, it is expected to offer users knowledge regarding stellar evolution, especially with regard to stars
+neighbors distributed in the Milky Way.
 
-# Diagrama HR
-Diagrama de Hertzsprung-Russell, que relaciona a magnitude absoluta, o tipo espectral e a temperatura das estrelas, em que as estrelas 
-ficam distribuıdas em uma sequencia principal, em sua maioria. A partir do estudo detalhado desse diagrama,  ́e possível determinar a idade de uma estrela e estimar os próximos estágios de sua vida, ao conhecer sua posição na denominada sequencia principal. Para a criação do Diagrama, foi utilizado o
-catálogo estelar Hipparcos.
+# HR Diagram
+Hertzsprung-Russell diagram, which relates the absolute magnitude, spectral type and temperature of stars, in which stars
+They are distributed in a main sequence, for the most part. From a detailed study of this diagram, it is possible to determine the age of a star and estimate the next stages of its life, by knowing its position in the so-called main sequence. To create the Diagram, the
+Hipparcos star catalog.
 
-# Visualização do Diagrama
-Através do Diagrama HR, o usuário consegue visualizar a posição da estrela selecionada do Diagrama na sequencia principal.
-Na parte da interface do projeto, o usuário consegue clicar no nome da estrela para ver mais informações sobre sua evolução e
-o que sua posição no diagrama representa, como o seu "destino" final.
+# Diagram Visualization
+Through the HR Diagram, the user can view the position of the selected star in the Diagram in the main sequence.
+In the project interface, the user can click on the name of the star to see more information about its evolution and
+what your position on the diagram represents, such as your final "destination".
 
 # Interface
 
-Na interface em desenvolvimento, o usuário consegue visualizar uma representação da superfície e formato das estrelas, além de ter informações 
-sobre sua classificação espectral.
+In the interface under development, the user can view a representation of the surface and shape of the stars, in addition to having information
+about its spectral classification.
